@@ -39,26 +39,26 @@ Refactorice: Se anima a los desarrolladores a proponer mejoras en la eficiencia 
 
 | Proyecto                                          | URL                                                                                                    |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Menú Responsive Design                             | [Proyecto 01](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto01)            |
-| Proyecto de Tarjetas de Juegos con animación        | [Proyecto 02](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto02)            |
-| Ejercicio de un Carrusel de Imagenes sin Javascript | [Proyecto 03](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto03)            |
-| Ejercicio de un Menu Lateral                        | [Proyecto 04](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto04)            |
-| Ejercicio de Ventana Modal                           | [Proyecto 05](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto05)            |
-| Ejercicio de Botones                                | [Proyecto 06](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto06)            |
-| Ejercicio de Loadres                                | [Proyecto 07](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto07)            |
-| Ejercicio de Checkbox                               | [Proyecto 08](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto08)            |
-| Ejercicio de Maquetacion CV                         | [Proyecto 09](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto09)            |
-| Ejercicio de Parallax Scrolling                     | [Proyecto 10](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto10)            |
-| Ejercicio de Formulario con efecto                  | [Proyecto 11](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto11)            |
-| Ejercicio de Fondo Animado                          | [Proyecto 12](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto12)            |
-| Ejercicio de Galeria de Imagenes                    | [Proyecto 13](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto13)            |
-| Ejercicio de Landing Page                           | [Proyecto 14](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto14)            |
-| Ejercicio de Filtrado de imagenes                   | [Proyecto 15](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto15)            |
-| Ejercicio de Scrolly Micro Interactions with Sprite Header | [Proyecto 16](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto16)        |
-| Ejercicio de Galeria con Efecto                     | [Proyecto 17](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto17)            |
-| Ejercicio de Switch                                  | [Proyecto 18](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto18)            |
-| Ejercicio de TimeLine                               | [Proyecto 19](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto19)            |
-| Ejercicio de Formulario                              | [Proyecto 20](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/proyecto20)            |
+| Menú Responsive Design                             | [Proyecto 01](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto01)            |
+| Proyecto de Tarjetas de Juegos con animación        | [Proyecto 02](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto02)            |
+| Ejercicio de un Carrusel de Imagenes sin Javascript | [Proyecto 03](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto03)            |
+| Ejercicio de un Menu Lateral                        | [Proyecto 04](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto04)            |
+| Ejercicio de Ventana Modal                           | [Proyecto 05](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto05)            |
+| Ejercicio de Botones                                | [Proyecto 06](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto06)            |
+| Ejercicio de Loadres                                | [Proyecto 07](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto07)            |
+| Ejercicio de Checkbox                               | [Proyecto 08](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto08)            |
+| Ejercicio de Maquetacion CV                         | [Proyecto 09](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto09)            |
+| Ejercicio de Parallax Scrolling                     | [Proyecto 10](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto10)            |
+| Ejercicio de Formulario con efecto                  | [Proyecto 11](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto11)            |
+| Ejercicio de Fondo Animado                          | [Proyecto 12](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto12)            |
+| Ejercicio de Galeria de Imagenes                    | [Proyecto 13](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto13)            |
+| Ejercicio de Landing Page                           | [Proyecto 14](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto14)            |
+| Ejercicio de Filtrado de imagenes                   | [Proyecto 15](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto15)            |
+| Ejercicio de Scrolly Micro Interactions with Sprite Header | [Proyecto 16](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto16)        |
+| Ejercicio de Galeria con Efecto                     | [Proyecto 17](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto17)            |
+| Ejercicio de Switch                                  | [Proyecto 18](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto18)            |
+| Ejercicio de TimeLine                               | [Proyecto 19](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto19)            |
+| Ejercicio de Formulario                              | [Proyecto 20](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/proyecto20)            |
 
 
 ![html-css](https://github.com/omarj16/proyectosHTML/assets/62949966/d5362ccf-cf7f-4762-a36a-aa496f009ff2)
