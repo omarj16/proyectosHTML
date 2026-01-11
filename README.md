@@ -29,7 +29,7 @@ Refactorice: Se anima a los desarrolladores a proponer mejoras en la eficiencia 
     <summary>Imagen Modo Pc</summary>
 
 
-![projects_vdndgc_c_scale,w_979 (1)](https://github.com/omarj16/proyectosHTML/tree/main/proyectos/)
+![projects_vdndgc_c_scale,w_979 (1)](https://github.com/omarj16/proyectosHTML/tree/master/proyectos/)
 
 </details>
 
